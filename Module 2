@@ -1,0 +1,5 @@
+import ast
+
+code=ast.parse("print('a+(b*c)')")
+print(ast.dump(code))
+exec(compile(code, filename="", mode="exec"))
