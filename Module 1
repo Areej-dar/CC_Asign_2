@@ -1,0 +1,6 @@
+import re
+
+txt="a+(b*c)"
+x=re.findall("\w",txt)
+y=re.split("\w",txt)
+print(x,y)
