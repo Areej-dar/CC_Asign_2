@@ -11,11 +11,6 @@ This Python project demonstrates the use of **regular expressions (regex)** and 
 2. **AST (Abstract Syntax Tree) Parsing**:
    - Parses a Python code snippet using the `ast` module.
    - Dumps the AST structure of the code snippet and executes it using `exec()`.
-  
-🛠️ Technologies Used
-Python: Core programming language.
-re (Regex): For pattern matching and string analysis.
-ast (Abstract Syntax Tree): For parsing and executing Python code.
 
 ## 💻 How to Run
 
