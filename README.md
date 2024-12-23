@@ -2,7 +2,7 @@
 
 This Python project demonstrates the use of **regular expressions (regex)** and **Abstract Syntax Trees (AST)** for basic string analysis and code parsing.
 
-## 📚 Features
+## Features
 
 1. **Regular Expressions (Regex) Analysis**:
    - Uses `re.findall()` to extract all word characters (`\w`) from the input string.
@@ -12,9 +12,10 @@ This Python project demonstrates the use of **regular expressions (regex)** and 
    - Parses a Python code snippet using the `ast` module.
    - Dumps the AST structure of the code snippet and executes it using `exec()`.
 
-## 💻 How to Run
+## How to Run
 
-Make sure you have Python installed. Save the script as `regex_ast_script.py` and run it:
+Make sure you have Python installed. 
+Save the script as `regex_ast_script.py` and run it:
 
 ```bash
 python regex_ast_script.py
